@@ -1,0 +1,5 @@
+/Users/kylereczek/Development/Libraries/Unity/ui-5x/UnityEngine.UI/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/kylereczek/Development/Libraries/Unity/ui-5x/UnityEngine.UI/bin/Debug/UnityEngine.UI.dll
+/Users/kylereczek/Development/Libraries/Unity/ui-5x/UnityEngine.UI/obj/Debug/UnityEngine.UI.dll
+/Users/kylereczek/Development/Libraries/Unity/ui-5x/UnityEngine.UI/obj/Debug/UnityEngine.UI.dll.mdb
+/Users/kylereczek/Development/Libraries/Unity/ui-5x/UnityEngine.UI/bin/Debug/UnityEngine.dll
